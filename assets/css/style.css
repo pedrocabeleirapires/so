@@ -3,29 +3,6 @@
 Primary style
 
 -------------------------------- */
-html * {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-*, *:after, *:before {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-body {
-  font-size: 100%;
-  font-family: "Bitter", sans-serif;
-  color: #f5f4ed;
-  background-color: #795d6b;
-}
-
-a {
-  color: #e86256;
-  text-decoration: none;
-}
-
 /* -------------------------------- 
 
 Modules - reusable parts of our design
