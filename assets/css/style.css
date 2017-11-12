@@ -12,7 +12,7 @@ Modules - reusable parts of our design
   width: 90%;
   max-width: 768px;
   margin: 2em auto;
-}
+}  
 .cd-container::after {
   /* clearfix */
   content: '';
